@@ -1,8 +1,8 @@
-# Assignment Solutions
+# Real life problem Solutions
 
 This repository contains solutions for three machine learning assignments. Each assignment focuses on a different task, ranging from time series forecasting to image classification.
 
-## Assignment Overview
+## Overview of problem 
 
 1. **Time Series Forecasting Script:**
    - Description: This script performs time series forecasting using techniques like ARIMA or LSTM networks. It aims to predict future values based on historical data
@@ -34,7 +34,7 @@ This repository contains solutions for three machine learning assignments. Each 
 
      ```bash
      MATRIX_assignment.ipynb
-     Runn this in colab or jupyter-notebook
+     Run this in colab or jupyter-notebook
      ```
 
 2. **Requirements:**
